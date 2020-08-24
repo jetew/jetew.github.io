@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Brook on YourAir</title>
+    <link>/tags/brook/</link>
+    <description>Recent content in Brook on YourAir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>Jacenwan@outlook.com (Jacen)</managingEditor>
+    <webMaster>Jacenwan@outlook.com (Jacen)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 12 Mar 2020 23:20:43 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/brook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>科学上网客户端下载</title>
+        <link>/posts/download/</link>
+        <pubDate>Thu, 12 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Thu, 12 Mar 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/download/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;为了方便大家下载与使用科学上网，我把本站介绍的几种科学上网客户端下载全部整合到这篇文章内。如果还没有架设服务端的&lt;a href=&#34;/tags/setup/&#34;&gt;请看这里&lt;/a&gt;；使用教程&lt;a href=&#34;/tags/use/&#34;&gt;请看这里&lt;/a&gt;。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>SSR</category>
+            
+          
+            
+              <category>Brook</category>
+            
+          
+            
+              <category>V2ray</category>
+            
+          
+            
+              <category>Trojan</category>
+            
+          
+            
+              <category>Wireguard</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Brook服务端架设</title>
+        <link>/posts/brook/</link>
+        <pubDate>Thu, 13 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Thu, 13 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/brook/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;Brook是一款新兴的代理软件，其版本横垮Windows、安卓、iOS、MacOS、Linux等多个系统平台，功能类似于我们经常使用的Shadowsocks/ShadowsocksR。Brook 的目标是简单易用、傻瓜化、速度快（新协议）。通过在服务器端安装Brook服务器端，同时在本地设备中使用Brook客户端，两者成功连接之后，可以为我们提供科学上网服务。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>Brook</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

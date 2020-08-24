@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>SSR on YourAir</title>
+    <link>/tags/ssr/</link>
+    <description>Recent content in SSR on YourAir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>Jacenwan@outlook.com (Jacen)</managingEditor>
+    <webMaster>Jacenwan@outlook.com (Jacen)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 12 Mar 2020 23:20:43 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/ssr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>科学上网客户端下载</title>
+        <link>/posts/download/</link>
+        <pubDate>Thu, 12 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Thu, 12 Mar 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/download/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;为了方便大家下载与使用科学上网，我把本站介绍的几种科学上网客户端下载全部整合到这篇文章内。如果还没有架设服务端的&lt;a href=&#34;/tags/setup/&#34;&gt;请看这里&lt;/a&gt;；使用教程&lt;a href=&#34;/tags/use/&#34;&gt;请看这里&lt;/a&gt;。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>SSR</category>
+            
+          
+            
+              <category>Brook</category>
+            
+          
+            
+              <category>V2ray</category>
+            
+          
+            
+              <category>Trojan</category>
+            
+          
+            
+              <category>Wireguard</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>SSR服务端架设</title>
+        <link>/posts/ssr/</link>
+        <pubDate>Wed, 12 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Wed, 12 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/ssr/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ShadowsocksR常被称为SSR、酸酸乳、小飞机（粉色）、纸飞机（粉色），是由“破娃酱”发起的一个项目，也是目前热门的科学上网技术之一。SSR没有官方网站，项目代码托管在Github上，目前已经停止开发，客户端由志愿者维护。&lt;/li&gt;
+&lt;/ul&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>SSR</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

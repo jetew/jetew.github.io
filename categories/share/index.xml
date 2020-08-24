@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Share on YourAir</title>
+    <link>/categories/share/</link>
+    <description>Recent content in Share on YourAir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>Jacenwan@outlook.com (Jacen)</managingEditor>
+    <webMaster>Jacenwan@outlook.com (Jacen)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 31 Mar 2020 18:00:13 +0800</lastBuildDate>
+    
+        <atom:link href="/categories/share/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>折腾LNMP&#43;WS&#43;TLS&#43;V2ray</title>
+        <link>/posts/lnmp-v2ray/</link>
+        <pubDate>Tue, 31 Mar 2020 18:00:13 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Tue, 31 Mar 2020 18:00:13 +0800</atom:modified>
+        <guid>/posts/lnmp-v2ray/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;开工了，没有那么多心思去管理多台服务器。所以干脆整一台配置好点的服务器将自己的一些个人云盘、网站、应用等全放在上面；顺便在这里记录下折腾过程，也给大家提供一个参考。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>LNMP</category>
+            
+          
+            
+              <category>V2ray</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+            
+              <category>Web</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>科学上网客户端下载</title>
+        <link>/posts/download/</link>
+        <pubDate>Thu, 12 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Thu, 12 Mar 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/download/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;为了方便大家下载与使用科学上网，我把本站介绍的几种科学上网客户端下载全部整合到这篇文章内。如果还没有架设服务端的&lt;a href=&#34;/tags/setup/&#34;&gt;请看这里&lt;/a&gt;；使用教程&lt;a href=&#34;/tags/use/&#34;&gt;请看这里&lt;/a&gt;。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>SSR</category>
+            
+          
+            
+              <category>Brook</category>
+            
+          
+            
+              <category>V2ray</category>
+            
+          
+            
+              <category>Trojan</category>
+            
+          
+            
+              <category>Wireguard</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>免费域名注册与DNS解析</title>
+        <link>/posts/domain/</link>
+        <pubDate>Sun, 01 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Sun, 01 Mar 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/domain/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;之前我们在&lt;a href=&#34;/posts/check/&#34;&gt;VPS被墙检测与解决方案&lt;/a&gt;一文中讲过利用国外CDN中转流量变相解决被墙；由于篇幅较长，所以我们进行分篇讲解。并且为后面几种“应用”架设打下基础；现在我们先进行第一步教学：免费域名申请与DNS解析。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Domain</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+            
+              <category>Web</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>避免VPS被墙的一些注意事项</title>
+        <link>/posts/notice/</link>
+        <pubDate>Wed, 19 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Wed, 19 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/notice/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;大家在使用科学上网的时候，时常会有遇到VPS服务器IP被墙的情况，下面我从几个方面来给大家讲解一下使用过程中的注意事项，以及该如何尽量避免VPS服务器被墙。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+            
+              <category>Knowledge</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>VPS被墙检测与解决方案</title>
+        <link>/posts/check/</link>
+        <pubDate>Tue, 18 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Tue, 18 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/check/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;h3 id=&#34;关于vps被墙&#34;&gt;关于VPS被墙&lt;/h3&gt;
+&lt;p&gt;目前有相当一部分国外VPS服务器是被国内用户用来搭“应用”做代理服务器的，譬如架设SSR、Brook、V2ray等。而GFW可能会检测出部分协议的代理服务器，直接将服务器墙掉，导致用户不能正常使用，下面给大家介绍VPS被墙的几种表现，以及检测方法和解决方法。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+            
+              <category>Knowledge</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>网络知识和常见问题</title>
+        <link>/posts/qa/</link>
+        <pubDate>Mon, 17 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Mon, 17 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/qa/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;前面已经给大家分享过科学上网服务的搭建和客户端使用教程，相信大家对科学上网的搭建和使用已经有了一定的了解；现在给大家分享一些网络小知识和一些基本的问题解决方法。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>Knowledge</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

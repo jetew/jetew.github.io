@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>VPS on YourAir</title>
+    <link>/series/vps/</link>
+    <description>Recent content in VPS on YourAir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>Jacenwan@outlook.com (Jacen)</managingEditor>
+    <webMaster>Jacenwan@outlook.com (Jacen)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 19 Feb 2020 23:20:43 +0800</lastBuildDate>
+    
+        <atom:link href="/series/vps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>避免VPS被墙的一些注意事项</title>
+        <link>/posts/notice/</link>
+        <pubDate>Wed, 19 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Wed, 19 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/notice/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;大家在使用科学上网的时候，时常会有遇到VPS服务器IP被墙的情况，下面我从几个方面来给大家讲解一下使用过程中的注意事项，以及该如何尽量避免VPS服务器被墙。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+            
+              <category>Knowledge</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>VPS被墙检测与解决方案</title>
+        <link>/posts/check/</link>
+        <pubDate>Tue, 18 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Tue, 18 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/check/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;h3 id=&#34;关于vps被墙&#34;&gt;关于VPS被墙&lt;/h3&gt;
+&lt;p&gt;目前有相当一部分国外VPS服务器是被国内用户用来搭“应用”做代理服务器的，譬如架设SSR、Brook、V2ray等。而GFW可能会检测出部分协议的代理服务器，直接将服务器墙掉，导致用户不能正常使用，下面给大家介绍VPS被墙的几种表现，以及检测方法和解决方法。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+            
+              <category>Knowledge</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>VPS服务器的连接与管理</title>
+        <link>/posts/connect/</link>
+        <pubDate>Mon, 10 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Mon, 10 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/connect/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;之前我们在&lt;a href=&#34;/vps/&#34;&gt;VPS服务器推荐专栏&lt;/a&gt;中讲过，VPS服务器是虚拟服务器，我们需要使用软件对其进行远程控制；以实现操作与管理。现在来给大家讲一下如何实现VPS服务器的连接与管理。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>搬瓦工VPS购买及使用</title>
+        <link>/posts/bandwagon/</link>
+        <pubDate>Sun, 09 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Sun, 09 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/bandwagon/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;搬瓦工，因其官网网站标识为BandwagonHost，有点类似BanWaGong的拼音，所以被国内用户称为搬瓦工VPS；其在国内流行程度可见一斑。搬瓦工VPS是一款性价比较高的便宜VPS主机，其优势在于稳定、线路好；不仅有高性价比CN2 GIA路线，国内直连速度快，而且也提供香港机房VPS，国内直连速度更快。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Vultr VPS购买与使用</title>
+        <link>/posts/vultr/</link>
+        <pubDate>Sat, 08 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Sat, 08 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/vultr/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;Vultr 是 Choopa 的子公司，其实力不容小觑。Vultr 服务器的控制面板是自研的，提供了非常丰富的功能；拥有丰富的自选机房，支持支付宝付款，按小时计费，非常灵活；在国内拥有不小的使用群体，现在Vultr VPS最便宜的主机仅需要2.5美元/月（仅提供IPv6），价格已经到了“冰点”了。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

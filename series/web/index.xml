@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Web on YourAir</title>
+    <link>/series/web/</link>
+    <description>Recent content in Web on YourAir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>Jacenwan@outlook.com (Jacen)</managingEditor>
+    <webMaster>Jacenwan@outlook.com (Jacen)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 31 Mar 2020 18:00:13 +0800</lastBuildDate>
+    
+        <atom:link href="/series/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>折腾LNMP&#43;WS&#43;TLS&#43;V2ray</title>
+        <link>/posts/lnmp-v2ray/</link>
+        <pubDate>Tue, 31 Mar 2020 18:00:13 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Tue, 31 Mar 2020 18:00:13 +0800</atom:modified>
+        <guid>/posts/lnmp-v2ray/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;开工了，没有那么多心思去管理多台服务器。所以干脆整一台配置好点的服务器将自己的一些个人云盘、网站、应用等全放在上面；顺便在这里记录下折腾过程，也给大家提供一个参考。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>LNMP</category>
+            
+          
+            
+              <category>V2ray</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+            
+              <category>Web</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LNMP一键安装及开设站点</title>
+        <link>/posts/lnmp/</link>
+        <pubDate>Mon, 16 Mar 2020 21:08:40 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Mon, 16 Mar 2020 21:08:40 +0800</atom:modified>
+        <guid>/posts/lnmp/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;LNMP——Linux+Nginx+数据库(MariaDB/MySQL等)+PHP；LNMP代表的就是：Linux系统下Nginx+MariaDB/MySQL+PHP这种网站服务器架构。&lt;/p&gt;
+&lt;p&gt;Nginx是一个高性能的HTTP和反向代理服务器，也是一个IMAP/POP3/SMTP代理服务器。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>LNMP</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>Web</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>免费域名注册与DNS解析</title>
+        <link>/posts/domain/</link>
+        <pubDate>Sun, 01 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Sun, 01 Mar 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/domain/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;之前我们在&lt;a href=&#34;/posts/check/&#34;&gt;VPS被墙检测与解决方案&lt;/a&gt;一文中讲过利用国外CDN中转流量变相解决被墙；由于篇幅较长，所以我们进行分篇讲解。并且为后面几种“应用”架设打下基础；现在我们先进行第一步教学：免费域名申请与DNS解析。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Domain</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+            
+              <category>Web</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

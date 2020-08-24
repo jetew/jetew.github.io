@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Trojan on YourAir</title>
+    <link>/tags/trojan/</link>
+    <description>Recent content in Trojan on YourAir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>Jacenwan@outlook.com (Jacen)</managingEditor>
+    <webMaster>Jacenwan@outlook.com (Jacen)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 12 Mar 2020 23:20:43 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/trojan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>科学上网客户端下载</title>
+        <link>/posts/download/</link>
+        <pubDate>Thu, 12 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Thu, 12 Mar 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/download/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;为了方便大家下载与使用科学上网，我把本站介绍的几种科学上网客户端下载全部整合到这篇文章内。如果还没有架设服务端的&lt;a href=&#34;/tags/setup/&#34;&gt;请看这里&lt;/a&gt;；使用教程&lt;a href=&#34;/tags/use/&#34;&gt;请看这里&lt;/a&gt;。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>SSR</category>
+            
+          
+            
+              <category>Brook</category>
+            
+          
+            
+              <category>V2ray</category>
+            
+          
+            
+              <category>Trojan</category>
+            
+          
+            
+              <category>Wireguard</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Trojan服务端架设</title>
+        <link>/posts/trojan/</link>
+        <pubDate>Mon, 02 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Mon, 02 Mar 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/trojan/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;Trojan是一个比较新的翻墙软件，在设计时采用了更适应国情的思路。在穿透GFW时，人们认为强加密和随机混淆可能会欺骗GFW的过滤机制。然而，Trojan实现了这个思路的反面：它模仿了互联网上最常见的HTTPS协议，以诱骗GFW认为它就是HTTPS，从而不被识别。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>Trojan</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

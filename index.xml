@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>YourAir</title>
+    <link>/</link>
+    <description>Recent content on YourAir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>Jacenwan@outlook.com (Jacen)</managingEditor>
+    <webMaster>Jacenwan@outlook.com (Jacen)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 31 Mar 2020 18:00:13 +0800</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>折腾LNMP&#43;WS&#43;TLS&#43;V2ray</title>
+        <link>/posts/lnmp-v2ray/</link>
+        <pubDate>Tue, 31 Mar 2020 18:00:13 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Tue, 31 Mar 2020 18:00:13 +0800</atom:modified>
+        <guid>/posts/lnmp-v2ray/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;开工了，没有那么多心思去管理多台服务器。所以干脆整一台配置好点的服务器将自己的一些个人云盘、网站、应用等全放在上面；顺便在这里记录下折腾过程，也给大家提供一个参考。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>LNMP</category>
+            
+          
+            
+              <category>V2ray</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+            
+              <category>Web</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LNMP一键安装及开设站点</title>
+        <link>/posts/lnmp/</link>
+        <pubDate>Mon, 16 Mar 2020 21:08:40 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Mon, 16 Mar 2020 21:08:40 +0800</atom:modified>
+        <guid>/posts/lnmp/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;LNMP——Linux+Nginx+数据库(MariaDB/MySQL等)+PHP；LNMP代表的就是：Linux系统下Nginx+MariaDB/MySQL+PHP这种网站服务器架构。&lt;/p&gt;
+&lt;p&gt;Nginx是一个高性能的HTTP和反向代理服务器，也是一个IMAP/POP3/SMTP代理服务器。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>LNMP</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>Web</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>V2ray服务端进阶篇</title>
+        <link>/posts/v2rayplus/</link>
+        <pubDate>Sat, 14 Mar 2020 20:14:17 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Sat, 14 Mar 2020 20:14:17 +0800</atom:modified>
+        <guid>/posts/v2rayplus/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;之前给大家介绍过了V2ray服务端初级架设，包含TCP协议和mKCP协议；今天教大家设置WebSocket(以后简称WS)+TLS协议。WS+TLS拥有更高的安全性能和加密性，为V2ray服务的隐蔽提供了基础；关于WS+TLS的定义这里就不在赘述了，下面直奔主题！&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>V2ray</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>科学上网客户端下载</title>
+        <link>/posts/download/</link>
+        <pubDate>Thu, 12 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Thu, 12 Mar 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/download/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;为了方便大家下载与使用科学上网，我把本站介绍的几种科学上网客户端下载全部整合到这篇文章内。如果还没有架设服务端的&lt;a href=&#34;/tags/setup/&#34;&gt;请看这里&lt;/a&gt;；使用教程&lt;a href=&#34;/tags/use/&#34;&gt;请看这里&lt;/a&gt;。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>SSR</category>
+            
+          
+            
+              <category>Brook</category>
+            
+          
+            
+              <category>V2ray</category>
+            
+          
+            
+              <category>Trojan</category>
+            
+          
+            
+              <category>Wireguard</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Wireguard服务端搭建</title>
+        <link>/posts/wireguard/</link>
+        <pubDate>Thu, 05 Mar 2020 14:32:33 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Thu, 05 Mar 2020 14:32:33 +0800</atom:modified>
+        <guid>/posts/wireguard/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;Wireguard是一种新型的VPN协议，相比目前主流的VPN协议，Wireguard具有轻便、快速、高效、安全的优点，被称为下一代VPN协议。Wireguard最初是为Linux内核开发，但目前已提供跨平台支持，可在Linux、安卓、苹果iOS、MacOS、Openwrt、Windows等多个平台使用 ；Wireguard可以全局代理电脑所有软件，包括浏览器、游戏软件等。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>Wireguard</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Trojan服务端架设</title>
+        <link>/posts/trojan/</link>
+        <pubDate>Mon, 02 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Mon, 02 Mar 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/trojan/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;Trojan是一个比较新的翻墙软件，在设计时采用了更适应国情的思路。在穿透GFW时，人们认为强加密和随机混淆可能会欺骗GFW的过滤机制。然而，Trojan实现了这个思路的反面：它模仿了互联网上最常见的HTTPS协议，以诱骗GFW认为它就是HTTPS，从而不被识别。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>Trojan</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>免费域名注册与DNS解析</title>
+        <link>/posts/domain/</link>
+        <pubDate>Sun, 01 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Sun, 01 Mar 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/domain/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;之前我们在&lt;a href=&#34;/posts/check/&#34;&gt;VPS被墙检测与解决方案&lt;/a&gt;一文中讲过利用国外CDN中转流量变相解决被墙；由于篇幅较长，所以我们进行分篇讲解。并且为后面几种“应用”架设打下基础；现在我们先进行第一步教学：免费域名申请与DNS解析。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Domain</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+            
+              <category>Web</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>避免VPS被墙的一些注意事项</title>
+        <link>/posts/notice/</link>
+        <pubDate>Wed, 19 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Wed, 19 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/notice/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;大家在使用科学上网的时候，时常会有遇到VPS服务器IP被墙的情况，下面我从几个方面来给大家讲解一下使用过程中的注意事项，以及该如何尽量避免VPS服务器被墙。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+            
+              <category>Knowledge</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>VPS被墙检测与解决方案</title>
+        <link>/posts/check/</link>
+        <pubDate>Tue, 18 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Tue, 18 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/check/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;h3 id=&#34;关于vps被墙&#34;&gt;关于VPS被墙&lt;/h3&gt;
+&lt;p&gt;目前有相当一部分国外VPS服务器是被国内用户用来搭“应用”做代理服务器的，譬如架设SSR、Brook、V2ray等。而GFW可能会检测出部分协议的代理服务器，直接将服务器墙掉，导致用户不能正常使用，下面给大家介绍VPS被墙的几种表现，以及检测方法和解决方法。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+            
+              <category>Knowledge</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>网络知识和常见问题</title>
+        <link>/posts/qa/</link>
+        <pubDate>Mon, 17 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Mon, 17 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/qa/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;前面已经给大家分享过科学上网服务的搭建和客户端使用教程，相信大家对科学上网的搭建和使用已经有了一定的了解；现在给大家分享一些网络小知识和一些基本的问题解决方法。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Use</category>
+            
+          
+        
+        
+          
+            
+              <category>Share</category>
+            
+          
+        
+        
+          
+            
+              <category>Knowledge</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>V2ray服务端架设</title>
+        <link>/posts/v2ray/</link>
+        <pubDate>Sun, 16 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Sun, 16 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/v2ray/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;v2ray支持的传输方式有很多，包括：普通TCP、HTTP伪装、WebSocket流量、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量，不同的传输方式其效果会不同，有可能会遇到意想不到的效果哦！&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>V2ray</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Brook服务端架设</title>
+        <link>/posts/brook/</link>
+        <pubDate>Thu, 13 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Thu, 13 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/brook/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;Brook是一款新兴的代理软件，其版本横垮Windows、安卓、iOS、MacOS、Linux等多个系统平台，功能类似于我们经常使用的Shadowsocks/ShadowsocksR。Brook 的目标是简单易用、傻瓜化、速度快（新协议）。通过在服务器端安装Brook服务器端，同时在本地设备中使用Brook客户端，两者成功连接之后，可以为我们提供科学上网服务。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>Brook</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>SSR服务端架设</title>
+        <link>/posts/ssr/</link>
+        <pubDate>Wed, 12 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Wed, 12 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/ssr/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ShadowsocksR常被称为SSR、酸酸乳、小飞机（粉色）、纸飞机（粉色），是由“破娃酱”发起的一个项目，也是目前热门的科学上网技术之一。SSR没有官方网站，项目代码托管在Github上，目前已经停止开发，客户端由志愿者维护。&lt;/li&gt;
+&lt;/ul&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+            
+              <category>SSR</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>架设前言及准备工作</title>
+        <link>/posts/start/</link>
+        <pubDate>Tue, 11 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Tue, 11 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/start/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;科学上网能为我们的工作、生活和生产力带来便利，比如一些好的外网文献、素材；比如一些国外公开课程、追剧、外贸需要等等。。。但凡事有利也有弊，墙外的世界是你向往的，同时也是黑暗的；所以大家面对一些言论和资讯时，看淡些，不要去信，也不要去当真就好。&lt;/li&gt;
+&lt;/ul&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Setup</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>APP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>VPS服务器的连接与管理</title>
+        <link>/posts/connect/</link>
+        <pubDate>Mon, 10 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Mon, 10 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/connect/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;之前我们在&lt;a href=&#34;/vps/&#34;&gt;VPS服务器推荐专栏&lt;/a&gt;中讲过，VPS服务器是虚拟服务器，我们需要使用软件对其进行远程控制；以实现操作与管理。现在来给大家讲一下如何实现VPS服务器的连接与管理。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>搬瓦工VPS购买及使用</title>
+        <link>/posts/bandwagon/</link>
+        <pubDate>Sun, 09 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Sun, 09 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/bandwagon/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;搬瓦工，因其官网网站标识为BandwagonHost，有点类似BanWaGong的拼音，所以被国内用户称为搬瓦工VPS；其在国内流行程度可见一斑。搬瓦工VPS是一款性价比较高的便宜VPS主机，其优势在于稳定、线路好；不仅有高性价比CN2 GIA路线，国内直连速度快，而且也提供香港机房VPS，国内直连速度更快。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Vultr VPS购买与使用</title>
+        <link>/posts/vultr/</link>
+        <pubDate>Sat, 08 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        <atom:modified>Sat, 08 Feb 2020 23:20:43 +0800</atom:modified>
+        <guid>/posts/vultr/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言：&lt;/h2&gt;
+&lt;p&gt;Vultr 是 Choopa 的子公司，其实力不容小觑。Vultr 服务器的控制面板是自研的，提供了非常丰富的功能；拥有丰富的自选机房，支持支付宝付款，按小时计费，非常灵活；在国内拥有不小的使用群体，现在Vultr VPS最便宜的主机仅需要2.5美元/月（仅提供IPv6），价格已经到了“冰点”了。&lt;/p&gt;</description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+        
+          
+            
+              <category>Course</category>
+            
+          
+        
+        
+          
+            
+              <category>VPS</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

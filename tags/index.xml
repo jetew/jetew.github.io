@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on YourAir</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on YourAir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>Jacenwan@outlook.com (Jacen)</managingEditor>
+    <webMaster>Jacenwan@outlook.com (Jacen)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 31 Mar 2020 18:00:13 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>LNMP</title>
+        <link>/tags/lnmp/</link>
+        <pubDate>Tue, 31 Mar 2020 18:00:13 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        
+        <guid>/tags/lnmp/</guid>
+        <description></description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Setup</title>
+        <link>/tags/setup/</link>
+        <pubDate>Tue, 31 Mar 2020 18:00:13 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        
+        <guid>/tags/setup/</guid>
+        <description></description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>V2ray</title>
+        <link>/tags/v2ray/</link>
+        <pubDate>Tue, 31 Mar 2020 18:00:13 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        
+        <guid>/tags/v2ray/</guid>
+        <description></description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Brook</title>
+        <link>/tags/brook/</link>
+        <pubDate>Thu, 12 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        
+        <guid>/tags/brook/</guid>
+        <description></description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>SSR</title>
+        <link>/tags/ssr/</link>
+        <pubDate>Thu, 12 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        
+        <guid>/tags/ssr/</guid>
+        <description></description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Trojan</title>
+        <link>/tags/trojan/</link>
+        <pubDate>Thu, 12 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        
+        <guid>/tags/trojan/</guid>
+        <description></description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Use</title>
+        <link>/tags/use/</link>
+        <pubDate>Thu, 12 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        
+        <guid>/tags/use/</guid>
+        <description></description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Wireguard</title>
+        <link>/tags/wireguard/</link>
+        <pubDate>Thu, 12 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        
+        <guid>/tags/wireguard/</guid>
+        <description></description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Domain</title>
+        <link>/tags/domain/</link>
+        <pubDate>Sun, 01 Mar 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        
+        <guid>/tags/domain/</guid>
+        <description></description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>VPS</title>
+        <link>/tags/vps/</link>
+        <pubDate>Wed, 19 Feb 2020 23:20:43 +0800</pubDate>
+        <author>Jacenwan@outlook.com (Jacen)</author>
+        
+        <guid>/tags/vps/</guid>
+        <description></description>
+        
+        <dc:creator>Jacen</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
